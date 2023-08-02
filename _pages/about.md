@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Dnyanesh Walwadkar
 
-![Profile Picture](https://yt3.googleusercontent.com/ytc/AOPolaTJAQ-F8CJu5Tft_fuPVca6lmob-Jkjf2G_iRDvpgs=s900-c-k-c0x00ffffff-no-rj)
+![Alt Text](images/WhatsApp Image 2023-08-02 at 22.15.57.jpeg)
+
 
 ## About Me
 
