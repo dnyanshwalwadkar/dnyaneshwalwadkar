@@ -1,7 +1,7 @@
 ---
 title: 'Life’s Battlefield: Embracing the Inner Warrior with Spiritual Wisdom'
 date: 2022-08-14
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/blog-post-1/
 tags:
   - wisdom
   - life
