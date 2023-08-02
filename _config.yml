@@ -161,16 +161,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: :collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: :collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: :collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: :collection/:path/
 
 
 # Defaults
@@ -236,7 +236,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: :categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
