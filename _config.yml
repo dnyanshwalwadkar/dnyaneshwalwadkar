@@ -82,39 +82,24 @@ analytics:
 author:
   name             : "Dnyanesh Walwadkar"
   avatar           : "https://yt3.googleusercontent.com/ytc/AOPolaTJAQ-F8CJu5Tft_fuPVca6lmob-Jkjf2G_iRDvpgs=s900-c-k-c0x00ffffff-no-rj"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Computer Vision Scientist, Veridium, Oxford UK"
+  location         : "Oxford, UK"
+  employer         :  "Veridium, Oxford, UK"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  email            :  "dnyaneshwalwadkar10@gmail.com"
+  researchgate     :   "https://www.researchgate.net/profile/Dnyanesh-Walwadkar"
   facebook         :
-  foursquare       :
   github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  instagram        :  "https://www.instagram.com/dnyaneshwalwadkar/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  linkedin         : "https://www.linkedin.com/in/dnyanesh-walwadkar-562b17172/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3837-7503"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  stackoverflow    : 
+  twitter          : "https://twitter.com/Dnyanesha10"
+  youtube          : "@dnyanesh"
+  
 
 
 # Reading Files
