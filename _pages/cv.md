@@ -21,19 +21,71 @@ Work experience
   * Duties included: Computer vision research realted to contactless fingerprints, Android & iOS prototype App development
   * Supervisor: Richard Tyson, Lead Computer Vision Scientist
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan - Aug 2022: Deep Learning Research Collabarator
+  * Steinberg Media Technologies, London, UK
+  * Duties included: Research & Development
+  * Supervisor: Benjamin Timms, R&D Head, Steinberg, London, UK
+
+* Nov 2021 - March 2022: Data Scientist
+  * The Buttonwood Tree, London, UK
+  * Duties included: Research
+  * Supervisor: Senior Data Scientist & CTO 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming Languages
+  * Python
+  * R
+  * Java
+  * C++
+* Machine Learning
+  * Supervised Learning
+  * Unsupervised Learning
+  * Reinforcement Learning
+* Deep Learning Frameworks
+  * TensorFlow
+  * PyTorch
+  * Keras
+* Computer Vision
+  * Image Processing
+  * Object Detection
+  * Semantic Segmentation
+* Natural Language Processing
+  * Text Classification
+  * Sentiment Analysis
+  * Named Entity Recognition
+* Data Manipulation and Analysis
+  * Pandas
+  * NumPy
+  * SciPy
+* Big Data Technologies
+  * Hadoop
+  * Spark
+  * Hive
+* Cloud Computing Platforms
+  * AWS
+  * Google Cloud
+  * Microsoft Azure
+* DevOps
+  * Docker
+  * Kubernetes
+  * CI/CD
+* Data Visualization
+  * Matplotlib
+  * Seaborn
+  * Tableau
+* Statistical Analysis
+  * Database Management
+  * SQL
+  * NoSQL
+* Soft Skills
+  * Problem-Solving
+  * Communication
+  * Teamwork
+  * Project Management
+  * Leadership
 
 Publications
 ======
