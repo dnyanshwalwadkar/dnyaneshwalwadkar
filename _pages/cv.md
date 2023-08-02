@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Information Technology, University of Pune, 2021
+* M.S. in Big Data Science, Queen Mary University of London, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Present 2022: Computer Vision Scientist
+  * Veridium, Oxford, UK
+  * Duties included: Computer vision research realted to contactless fingerprints, Android & iOS prototype App development
+  * Supervisor: Richard Tyson, Lead Computer Vision Scientist
 
 * Fall 2015: Research Assistant
   * Github University
