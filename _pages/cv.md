@@ -34,67 +34,51 @@ Work experience
   
 <table>
 <tr>
-<td>
+<td valign="top">
 
-#### Skills (Column 1)
+<h4>Skills (Column 1)</h4>
 
-* Programming Languages
-  * Python
-  * R
-  * Java
-  * C++
-* Machine Learning
-  * Supervised Learning
-  * Unsupervised Learning
-  * Reinforcement Learning
-* Deep Learning Frameworks
-  * TensorFlow
-  * PyTorch
-  * Keras
-* Computer Vision
-  * Image Processing
-  * Object Detection
-  * Semantic Segmentation
-* Natural Language Processing
-  * Text Classification
-  * Sentiment Analysis
-  * Named Entity Recognition
+<ul>
+  <li>Programming Languages
+    <ul>
+      <li>Python</li>
+      <li>R</li>
+      <li>Java</li>
+      <li>C++</li>
+    </ul>
+  </li>
+  <li>Machine Learning
+    <ul>
+      <li>Supervised Learning</li>
+      <li>Unsupervised Learning</li>
+      <li>Reinforcement Learning</li>
+    </ul>
+  </li>
+  <!-- Add more items here -->
+</ul>
 
 </td>
-<td>
+<td valign="top">
 
-#### Skills (Column 2)
+<h4>Skills (Column 2)</h4>
 
-* Data Manipulation and Analysis
-  * Pandas
-  * NumPy
-  * SciPy
-* Big Data Technologies
-  * Hadoop
-  * Spark
-  * Hive
-* Cloud Computing Platforms
-  * AWS
-  * Google Cloud
-  * Microsoft Azure
-* DevOps
-  * Docker
-  * Kubernetes
-  * CI/CD
-* Data Visualization
-  * Matplotlib
-  * Seaborn
-  * Tableau
-* Statistical Analysis
-  * Database Management
-  * SQL
-  * NoSQL
-* Soft Skills
-  * Problem-Solving
-  * Communication
-  * Teamwork
-  * Project Management
-  * Leadership
+<ul>
+  <li>Data Manipulation and Analysis
+    <ul>
+      <li>Pandas</li>
+      <li>NumPy</li>
+      <li>SciPy</li>
+    </ul>
+  </li>
+  <li>Big Data Technologies
+    <ul>
+      <li>Hadoop</li>
+      <li>Spark</li>
+      <li>Hive</li>
+    </ul>
+  </li>
+  <!-- Add more items here -->
+</ul>
 
 </td>
 </tr>
@@ -126,79 +110,39 @@ Service and leadership
 
 <div style="width: 45%;">
 
-#### Certifications (Column 1)
+<div style="display: flex; justify-content: space-between;">
 
-* Become a DevOps Engineer
-  Issued by: LinkedIn
-  Issued: Jan 2022
+<div style="width: 45%;">
 
-* The Data Science of Economics, Banking, and Finance, with Barton Poulson
-  Issued by: National Association of State Boards of Education (NASBE)
-  Issued: Jan 2022
+<h4>Certifications (Column 1)</h4>
 
-* Developing a Critical Thinking Mindset
-  Issued by: LinkedIn
-  Issued: Nov 2021
-
-* Data Analytics Intern
-  Issued by: KPMG
-  Issued: Oct 2021
-
-* Data Science Project Planning
-  Issued by: Udemy
-  Issued: Oct 2021
-
-* Deployment of Machine Learning Model
-  Issued by: Udemy
-  Issued: Sep 2021
-
-* Hadoop - The Ultimate Hands-on
-  Issued by: Udemy
-  Issued: Jul 2021
-
-* Microsoft AI Classroom Series
-  Issued by: Microsoft
-  Issued: Oct 2020
+<ul>
+  <li>Become a DevOps Engineer<br>Issued by: LinkedIn<br>Issued: Jan 2022</li>
+  <li>The Data Science of Economics, Banking, and Finance, with Barton Poulson<br>Issued by: National Association of State Boards of Education (NASBE)<br>Issued: Jan 2022</li>
+  <li>Developing a Critical Thinking Mindset<br>Issued by: LinkedIn<br>Issued: Nov 2021</li>
+  <li>Data Analytics Intern<br>Issued by: KPMG<br>Issued: Oct 2021</li>
+  <li>Data Science Project Planning<br>Issued by: Udemy<br>Issued: Oct 2021</li>
+  <li>Deployment of Machine Learning Model<br>Issued by: Udemy<br>Issued: Sep 2021</li>
+  <li>Hadoop - The Ultimate Hands-on<br>Issued by: Udemy<br>Issued: Jul 2021</li>
+  <li>Microsoft AI Classroom Series<br>Issued by: Microsoft<br>Issued: Oct 2020</li>
+</ul>
 
 </div>
 
 <div style="width: 45%;">
 
-#### Certifications (Column 2)
+<h4>Certifications (Column 2)</h4>
 
-* Understanding Financial Markets
-  Issued by: University of Geneva
-  Issued: Sep 2020
-
-* Usable Security
-  Issued by: University of Maryland
-  Issued: Sep 2020
-  Credential ID: KETA4RFUNNLA
-
-* End-to-End Machine Learning with TensorFlow on GCP
-  Issued by: Google
-  Issued: Jun 2020
-  Credential ID: 6344YMFCNMUH
-
-* Android
-  Issued by: Vanderbilt University
-  Issued: May 2020
-
-* Convolutional Neural Networks
-  Issued by: DeepLearning.AI
-  Issued: May 2020
-
-* Convolutional Neural Networks in TensorFlow
-  Issued by: DeepLearning.AI
-  Issued: Apr 2020
-
-* PHP & MySQL
-  Issued by: Indian Institute of Technology, Bombay
-  Issued: Apr 2020
-
-* Python and Statistics for Financial Analysis
-  Issued by: The Hong Kong University of Science and Technology
-  Issued: Apr 2020
+<ul>
+  <li>Understanding Financial Markets<br>Issued by: University of Geneva<br>Issued: Sep 2020</li>
+  <li>Usable Security<br>Issued by: University of Maryland<br>Issued: Sep 2020<br>Credential ID: KETA4RFUNNLA</li>
+  <li>End-to-End Machine Learning with TensorFlow on GCP<br>Issued by: Google<br>Issued: Jun 2020<br>Credential ID: 6344YMFCNMUH</li>
+  <li>Android<br>Issued by: Vanderbilt University<br>Issued: May 2020</li>
+  <li>Convolutional Neural Networks<br>Issued by: DeepLearning.AI<br>Issued: May 2020</li>
+  <li>Convolutional Neural Networks in TensorFlow<br>Issued by: DeepLearning.AI<br>Issued: Apr 2020</li>
+  <li>PHP & MySQL<br>Issued by: Indian Institute of Technology, Bombay<br>Issued: Apr 2020</li>
+  <li>Python and Statistics for Financial Analysis<br>Issued by: The Hong Kong University of Science and Technology<br>Issued: Apr 2020</li>
+</ul>
 
 </div>
 
