@@ -107,137 +107,84 @@ Teaching
   
 Service and leadership
 ======
+<div style="display: flex; justify-content: space-between;">
 
-Certifications
-======
+<div style="width: 45%;">
+
+#### Certifications (Column 1)
 
 * Become a DevOps Engineer
-
-Issued by: LinkedIn
-Issued: Jan 2022
+  Issued by: LinkedIn
+  Issued: Jan 2022
 
 * The Data Science of Economics, Banking, and Finance, with Barton Poulson
-
-Issued by: National Association of State Boards of Education (NASBE)
-Issued: Jan 2022
-
+  Issued by: National Association of State Boards of Education (NASBE)
+  Issued: Jan 2022
 
 * Developing a Critical Thinking Mindset
-
-Issued by: LinkedIn
-Issued: Nov 2021
+  Issued by: LinkedIn
+  Issued: Nov 2021
 
 * Data Analytics Intern
-Issued by: KPMG
-Issued: Oct 2021
+  Issued by: KPMG
+  Issued: Oct 2021
 
-Credential ID: y9cEWCCSucbbJTXkL
-Credential
-Data Science Project Planning
+* Data Science Project Planning
+  Issued by: Udemy
+  Issued: Oct 2021
 
-Issued by: Udemy
-Issued: Oct 2021
-Credential
-Deployment of Machine Learning Model
+* Deployment of Machine Learning Model
+  Issued by: Udemy
+  Issued: Sep 2021
 
-Issued by: Udemy
-Issued: Sep 2021
-Credential
-Hadoop - The Ultimate Hands-on
+* Hadoop - The Ultimate Hands-on
+  Issued by: Udemy
+  Issued: Jul 2021
 
-Issued by: Udemy
-Issued: Jul 2021
-Credential
-Microsoft AI Classroom Series
+* Microsoft AI Classroom Series
+  Issued by: Microsoft
+  Issued: Oct 2020
 
-Issued by: Microsoft
-Issued: Oct 2020
-Credential
-Understanding Financial Markets
+</div>
 
-Issued by: University of Geneva
-Issued: Sep 2020
-Credential ID: 56K73QWRPJJT
-Credential
-Usable Security
+<div style="width: 45%;">
 
-Issued by: University of Maryland
-Issued: Sep 2020
-Credential ID: KETA4RFUNNLA
-Credential
-End-to-End Machine Learning with TensorFlow on GCP
+#### Certifications (Column 2)
 
-Issued by: Google
-Issued: Jun 2020
-Credential ID: 6344YMFCNMUH
-Credential
-Android
+* Understanding Financial Markets
+  Issued by: University of Geneva
+  Issued: Sep 2020
 
-Issued by: Vanderbilt University
-Issued: May 2020
-Credential ID: E4YVJDXH99LX
-Credential
-Convolutional Neural Networks
+* Usable Security
+  Issued by: University of Maryland
+  Issued: Sep 2020
+  Credential ID: KETA4RFUNNLA
 
-Issued by: DeepLearning.AI
-Issued: May 2020
-Credential ID: EHJWZ4NAZL3X
-Credential
-Convolutional Neural Networks in TensorFlow
+* End-to-End Machine Learning with TensorFlow on GCP
+  Issued by: Google
+  Issued: Jun 2020
+  Credential ID: 6344YMFCNMUH
 
-Issued by: DeepLearning.AI
-Issued: Apr 2020
-Credential ID: 8QE4RVM6VYTL
-Credential
-PHP & MySQL
+* Android
+  Issued by: Vanderbilt University
+  Issued: May 2020
 
-Issued by: Indian Institute of Technology, Bombay
-Issued: Apr 2020
-Credential
-Python and Statistics for Financial Analysis
+* Convolutional Neural Networks
+  Issued by: DeepLearning.AI
+  Issued: May 2020
 
-Issued by: The Hong Kong University of Science and Technology
-Issued: Apr 2020
-Credential ID: FX5DEYNE4TWF
-Credential
-R Programming
+* Convolutional Neural Networks in TensorFlow
+  Issued by: DeepLearning.AI
+  Issued: Apr 2020
 
-Issued by: Indian Institute of Technology, Bombay
-Issued: Apr 2020
-Credential
-TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+* PHP & MySQL
+  Issued by: Indian Institute of Technology, Bombay
+  Issued: Apr 2020
 
-Issued by: DeepLearning.AI
-Issued: Apr 2020
-Credential ID: W5TULZ3FQ4BZ
-Credential
-Neural Networks and Deep Learning
+* Python and Statistics for Financial Analysis
+  Issued by: The Hong Kong University of Science and Technology
+  Issued: Apr 2020
 
-Issued by: DeepLearning.AI
-Issued: Jul 2019
-Credential ID: YN65GCTMWHYE
-Credential
-Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+</div>
 
-Issued by: DeepLearning.AI
-Issued: Jul 2019
-Credential ID: W5TULZ3FQ4BZ
-Credential
-Python for Applied Data Science
-
-Issued by: IBM
-Issued: Jul 2019
-Credential ID: HW7GET98UND6
-Credential
-Python for Data Science and AI
-
-Issued by: IBM
-Issued: Jul 2019
-Credential ID: HW7GET98UND6
-Credential
-Python Data Structures
-
-Issued by: University of Michigan
-Issued: Jun 2019
-Credential ID: NGYC57B5HTHB
-Credential
+</div>
