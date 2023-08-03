@@ -32,8 +32,11 @@ Work experience
   * Supervisor: Senior Data Scientist & CTO 
 
   
-Skills
-======
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
+
+#### Skills (Column 1)
 
 * Programming Languages
   * Python
@@ -56,6 +59,13 @@ Skills
   * Text Classification
   * Sentiment Analysis
   * Named Entity Recognition
+
+</div>
+
+<div style="width: 45%;">
+
+#### Skills (Column 2)
+
 * Data Manipulation and Analysis
   * Pandas
   * NumPy
@@ -86,6 +96,11 @@ Skills
   * Teamwork
   * Project Management
   * Leadership
+
+</div>
+
+</div>
+
 
 Publications
 ======
