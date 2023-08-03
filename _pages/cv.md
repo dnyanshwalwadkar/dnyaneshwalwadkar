@@ -32,9 +32,9 @@ Work experience
   * Supervisor: Senior Data Scientist & CTO 
 
   
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 45%;">
+<table>
+<tr>
+<td>
 
 #### Skills (Column 1)
 
@@ -60,9 +60,8 @@ Work experience
   * Sentiment Analysis
   * Named Entity Recognition
 
-</div>
-
-<div style="width: 45%;">
+</td>
+<td>
 
 #### Skills (Column 2)
 
@@ -97,9 +96,10 @@ Work experience
   * Project Management
   * Leadership
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 
 
 Publications
